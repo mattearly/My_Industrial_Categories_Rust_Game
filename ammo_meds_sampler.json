@@ -1,0 +1,146 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 128,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rifle"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 128,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.pistol"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 64,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rifle.hv"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 64,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rifle.incendiary"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 64,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rifle.explosive"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 64,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.pistol.hv"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 64,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.pistol.fire"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 12,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.shotgun"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 12,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.shotgun.fire"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 12,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.shotgun.slug"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rocket.hv"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rocket.seeker"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "ammo.rocket.fire"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 4,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "syringe.medical"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "potato"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "blueberries"
+    }
+  ]

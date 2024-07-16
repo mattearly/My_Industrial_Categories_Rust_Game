@@ -1,0 +1,38 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 0,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "fat.animal"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "cloth"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 30,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "charcoal"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 20,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "sulfur"
+    }
+  ]

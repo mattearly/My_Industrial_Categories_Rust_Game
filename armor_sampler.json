@@ -1,0 +1,254 @@
+[
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "pants"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "jacket"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "hoodie"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "tactical.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "roadsign.kilt"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "coffeecan.helmet"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "burlap.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shoes.boots"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "tshirt.long"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "attire.hide.poncho"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "diving.wetsuit"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "diving.tank"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "diving.fins"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "smallbackpack"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "metal.facemask"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "metal.plate.torso"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "hazmatsuit"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "largebackpack"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "roadsign.gloves"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "roadsign.jacket"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "wood.armor.pants"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "deer.skull.mask"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "riot.helmet"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "hat.wolf"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "wood.armor.jacket"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "shirt.collared"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "tshirt"
+    },
+    {
+      "TargetCategory": null,
+      "MaxAmountInOutput": 1,
+      "BufferAmount": 0,
+      "MinAmountInInput": 0,
+      "IsBlueprint": false,
+      "BufferTransferRemaining": 0,
+      "TargetItemName": "burlap.shirt"
+    }
+  ]
