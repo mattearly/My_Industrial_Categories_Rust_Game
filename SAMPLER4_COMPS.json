@@ -1,0 +1,122 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "cctv.camera"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "targeting.computer"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 2,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "techparts"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 10,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "metal.refined"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 3,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "metalpipe"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "metalspring"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "riflebody"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "semibody"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "smgbody"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 2,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "sewingkit"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 2,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "gears"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 100,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "scrap"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "sheetmetal"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 3,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rope"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 50,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "leather"
+  }
+]

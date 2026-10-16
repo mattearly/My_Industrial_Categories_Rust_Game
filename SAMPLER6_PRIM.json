@@ -1,0 +1,146 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "axe.salvaged"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "icepick.salvaged"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "chainsaw"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "jackhammer"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "crossbow"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "bow.hunting"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "bow.compound"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "minicrossbow"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1000,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "stones"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 5,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "arrow.hv"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 5,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "arrow.bone"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 5,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "arrow.fire"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 5,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "arrow.wooden"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "salvaged.sword"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "longsword"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "salvaged.cleaver"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 500,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "wood"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "tool.binoculars"
+  }
+]

@@ -1,0 +1,210 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.ak"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.l96"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.m39"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.bolt"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.lr300"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rifle.semiauto"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "smg.2"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "smg.mp5"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "smg.thompson"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "pistol.m92"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "pistol.semiauto"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "pistol.prototype17"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "pistol.python"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "pistol.revolver"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "hmlmg"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "lmg.m249"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "shotgun.m4"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "shotgun.pump"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "shotgun.double"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "shotgun.spas12"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "minigun"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "military flamethrower"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rocket.launcher"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "multiplegrenadelauncher"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 1,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "homingmissile.launcher"
+  },
+  {
+    "TargetCategory": 0,
+    "MaxAmountInOutput": 18,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": ""
+  }
+]
