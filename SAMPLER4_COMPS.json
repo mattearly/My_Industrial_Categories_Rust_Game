@@ -118,5 +118,13 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "TargetItemName": "leather"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 2,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "tarp"
   }
 ]

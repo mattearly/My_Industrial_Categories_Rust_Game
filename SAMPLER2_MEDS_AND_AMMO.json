@@ -105,7 +105,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 4,
+    "MaxAmountInOutput": 2,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
@@ -137,30 +137,6 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 50,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "TargetItemName": "gunpowder"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 200,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "TargetItemName": "sulfur"
-  },
-  {
-    "TargetCategory": null,
-    "MaxAmountInOutput": 300,
-    "BufferAmount": 0,
-    "MinAmountInInput": 0,
-    "IsBlueprint": false,
-    "TargetItemName": "charcoal"
-  },
-  {
-    "TargetCategory": null,
     "MaxAmountInOutput": 100,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
@@ -169,7 +145,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 50,
+    "MaxAmountInOutput": 250,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,
@@ -177,7 +153,7 @@
   },
   {
     "TargetCategory": null,
-    "MaxAmountInOutput": 500,
+    "MaxAmountInOutput": 900,
     "BufferAmount": 0,
     "MinAmountInInput": 0,
     "IsBlueprint": false,

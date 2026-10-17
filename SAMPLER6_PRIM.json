@@ -142,5 +142,13 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "TargetItemName": "tool.binoculars"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 100,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "bone.fragments"
   }
 ]

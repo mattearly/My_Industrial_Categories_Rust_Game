@@ -1,0 +1,162 @@
+[
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "rock"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "torch"
+  },
+  {
+    "TargetCategory": 17,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": ""
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "spear.stone"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "fireplace.stone"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "stonehatchet"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "stone.pickaxe"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "barricade.stone"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "spear.wooden"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.blue.berry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.green.berry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.red.berry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.white.berry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.yellow.berry"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.corn"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.orchid"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.potato"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.pumpkin"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.sunflower"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 0,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "seed.wheat"
+  }
+]

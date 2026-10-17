@@ -38,5 +38,29 @@
     "MinAmountInInput": 0,
     "IsBlueprint": false,
     "TargetItemName": "spraycan"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 300,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "sulfur"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 100,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "gunpowder"
+  },
+  {
+    "TargetCategory": null,
+    "MaxAmountInOutput": 300,
+    "BufferAmount": 0,
+    "MinAmountInInput": 0,
+    "IsBlueprint": false,
+    "TargetItemName": "charcoal"
   }
 ]
